@@ -1,0 +1,29 @@
+﻿
+<div ng-controller="details as vm">
+    <h2>Address <a href="#" ng-click="vm.logout()">Logout</a>  </h2>
+    Contact:  <input-String type="text" ng-model="vm.contact" >
+    </input-String>
+    <br>
+    <br>
+    Location: <input-String type="text" ng-model="vm.location">
+    </input-String>
+    <br>
+    <br>
+    <button ng-click="vm.addAddress()" ng-disabled="vm.checkValidationAddress()">AddAddress</button>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <h2>Role</h2>
+    RoleName:  <input-String type="text" ng-model="vm.roleName">
+    </input-String>
+    <br>
+    <br>
+   
+    <button ng-click="vm.addRole()" ng-disabled="vm.checkValidationRole()">AddRoles</button>
+    <br>
+</div>
+
+
+

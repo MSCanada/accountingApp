@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA90CUHvRFYkGqajtoOAxbNwAAAAACAAAAAAAQZgAAAAEAACAAAABgs6GiColZ5sGJDloyPUyf2zr35ostfMx12ZZLH4f1DwAAAAAOgAAAAAIAACAAAABQ/gnsX1CDFcLnjuq3QNE+F10S8BHbHiej/qL1w9VskCAAAAAI+CnH1sq19NzFS7rwPOS5nvwxHET92I2q7IN5fCCyVEAAAAD7AoAh+DYuxE4Vt9WpgCVp4wAq+pWBO5tZRapOK4jnX4F/lPh137CTkSDf21wAvH+7hFwBLzRAD7TQfb2GnWdy</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.mywindowshosting.com/comsatapp</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>12/16/2015 02:19:23</publishTime>
+    </File>
+    <File Include="bin/API.dll">
+      <publishTime>12/19/2015 15:16:02</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Entity.Design.Extensibility.resources.dll">
+      <publishTime>03/02/2015 14:37:18</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>12/16/2015 02:19:27</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>12/16/2015 02:19:27</publishTime>
+    </File>
+    <File Include="bin/EnvDTE.dll">
+      <publishTime>10/22/2009 20:51:18</publishTime>
+    </File>
+    <File Include="bin/EnvDTE80.dll">
+      <publishTime>10/22/2009 20:51:18</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Entity.Design.Extensibility.resources.dll">
+      <publishTime>03/02/2015 14:37:20</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Entity.Design.Extensibility.resources.dll">
+      <publishTime>03/02/2015 14:37:20</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Entity.Design.Extensibility.resources.dll">
+      <publishTime>03/02/2015 14:37:18</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Entity.Design.Extensibility.resources.dll">
+      <publishTime>03/02/2015 14:37:20</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Entity.Design.Extensibility.resources.dll">
+      <publishTime>03/02/2015 14:37:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>12/16/2015 02:19:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>12/16/2015 02:19:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Scaffolding.12.0.dll">
+      <publishTime>06/25/2015 19:11:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll">
+      <publishTime>06/25/2015 19:11:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CSharp.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Entity.Design.Extensibility.dll">
+      <publishTime>03/02/2015 14:37:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>12/16/2015 02:19:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>12/16/2015 02:19:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>12/16/2015 02:19:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>12/16/2015 02:19:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.OLE.Interop.dll">
+      <publishTime>07/06/2015 22:55:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.Shell.Interop.dll">
+      <publishTime>07/06/2015 22:55:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.TextManager.Interop.dll">
+      <publishTime>07/06/2015 22:55:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll">
+      <publishTime>05/28/2015 18:43:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll">
+      <publishTime>05/28/2015 18:43:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>12/16/2015 02:19:22</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>12/16/2015 02:19:25</publishTime>
+    </File>
+    <File Include="bin/Ninject.dll">
+      <publishTime>12/16/2015 02:56:50</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.Common.dll">
+      <publishTime>12/16/2015 02:56:53</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>12/16/2015 02:19:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>11/27/2015 19:46:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>11/27/2015 19:46:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>11/27/2015 19:46:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>11/27/2015 19:46:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>11/27/2015 19:46:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>11/27/2015 19:46:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>11/27/2015 19:46:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>11/27/2015 19:46:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>11/27/2015 19:46:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>11/27/2015 19:46:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>11/27/2015 19:46:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>11/27/2015 19:46:20</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Entity.Design.Extensibility.resources.dll">
+      <publishTime>03/02/2015 14:37:20</publishTime>
+    </File>
+    <File Include="bin/stdole.dll">
+      <publishTime>07/07/2015 01:51:38</publishTime>
+    </File>
+    <File Include="bin/System.ComponentModel.DataAnnotations.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Configuration.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Data.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Data.Entity.Design.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Drawing.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.EnterpriseServices.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Selectors.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Services.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>12/16/2015 02:23:23</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.Serialization.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.ServiceModel.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.ServiceModel.Web.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.ApplicationServices.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.DynamicData.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Entity.Design.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Entity.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Extensions.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>12/16/2015 02:23:23</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>12/16/2015 02:23:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>12/16/2015 02:23:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>12/16/2015 02:19:22</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>12/16/2015 02:19:22</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>12/16/2015 02:19:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Services.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>12/16/2015 02:19:22</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>12/16/2015 02:19:22</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>12/16/2015 02:19:22</publishTime>
+    </File>
+    <File Include="bin/System.Xml.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Xml.Linq.dll">
+      <publishTime>09/26/2012 04:16:08</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>12/16/2015 02:56:55</publishTime>
+    </File>
+    <File Include="bin/WebAPI.dll">
+      <publishTime>12/19/2015 15:16:02</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>12/16/2015 02:19:23</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Entity.Design.Extensibility.resources.dll">
+      <publishTime>03/02/2015 14:37:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Entity.Design.Extensibility.resources.dll">
+      <publishTime>03/02/2015 14:37:20</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/18/2015 10:28:26</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>12/19/2015 14:28:21</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/19/2015 16:03:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

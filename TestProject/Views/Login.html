@@ -1,0 +1,21 @@
+﻿
+            <div ng-controller="loginlogic as vm">
+            
+            Username:  <input-String type="text" ng-model="vm.username" ng-blur="vm.checkValidation()">
+              </input-String>
+                <br>
+                <br>
+              Password: <input-String type="password" ng-model="vm.password" >
+              </input-String>
+                <br>
+                <br>
+                <button ng-click="vm.login()" ng-disabled="vm.checkValidation()">Login</button>
+                <br>
+                <br>
+                <a href="/TestProject/main.html#/Register">Register</a>
+
+
+            </div>  
+
+                                                       
+        
